@@ -1,2 +1,2 @@
 # gitLoupeIssue
-Any GitLupe issue can be submitted here
+Any GitLoupe issue can be submitted here
