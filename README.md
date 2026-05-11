@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="images/logo.png"  />
+</div>
+
+
 # Git Loupe - Official Issue Tracker 🔍
 
 Welcome to the official issue tracker and community support repository for **Git Loupe**, a lightweight and high-performance Git blame extension for Visual Studio Code.

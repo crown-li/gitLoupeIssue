@@ -18,7 +18,7 @@ No bloated menus, no heavy background processes. Just the exact Git information 
 
 ## 🚀 See it in Action
 
-![Git Loupe in Action](https://github.com/user-attachments/assets/060158e3-b499-44fe-8df0-61d5e4b9e9e3)
+![Git Loupe in Action](images/gif.gif)
 
 ## ⚙️ Requirements
 
