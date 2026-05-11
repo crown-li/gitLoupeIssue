@@ -34,11 +34,11 @@ This extension contributes the following settings:
 
 ## 🐛 Known Issues
 
-* None currently reported. If you find any issues or have feature requests, please open an issue on the GitHub repository.
+* None currently reported. If you find any issues or have feature requests, please open an **[Issue](https://github.com/crown-li/gitLoupeIssue/issues)** on the GitHub repository.
 
 ## 📝 Release Notes
 
-### 1.0.0
+### 1.0.2
 
 * Initial release of Git Loupe! 🎉
 * Added inline line blame annotations.
