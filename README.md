@@ -4,7 +4,7 @@ Welcome to the official issue tracker and community support repository for **Git
 
 > **Note:** The core source code of Git Loupe is maintained in a private repository. This public repository is dedicated exclusively to tracking bugs, feature requests, and providing user support.
 
-[![Visual Studio Marketplace](https://img.shields.io/badge/Available%20on-VS%20Code%20Marketplace-blue.svg)](#) *(You can link this to your actual marketplace page later)*
+[![Visual Studio Marketplace](https://img.shields.io/badge/Available%20on-VS%20Code%20Marketplace-blue.svg)](#) 
 
 ---
 
@@ -12,7 +12,7 @@ Welcome to the official issue tracker and community support repository for **Git
 
 If you encounter an issue while using Git Loupe, we want to fix it! Before opening a new issue, please quickly check the existing issues to see if it has already been reported.
 
-To help us resolve the bug as quickly as possible, please click the **[Issues](https://github.com/YOUR-USERNAME/gitLoupeIssue/issues)** tab and provide the following information when creating a new bug report:
+To help us resolve the bug as quickly as possible, please click the **[Issues](https://github.com/crown-li/gitLoupeIssue/issues)** tab and provide the following information when creating a new bug report:
 
 **Bug Report Template:**
 ```text
