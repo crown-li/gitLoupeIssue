@@ -1,6 +1,16 @@
 <div align="center">
   <img src="images/logo.png"  />
 </div>
+<br>
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=gitloupe.git-loupe">
+    <img src="https://img.shields.io/badge/Available%20on-VS%20Code%20Marketplace-blue.svg" alt="Visual Studio Marketplace" />
+  </a>
+  &nbsp;
+  <a href="https://open-vsx.org/extension/gitloupe/git-loupe">
+    <img src="https://img.shields.io/badge/Available%20on-Open%20VSX-blue.svg" alt="Open VSX" />
+  </a>
+</p>
 
 
 # Git Loupe - Official Issue Tracker 🔍
@@ -9,8 +19,6 @@ Welcome to the official issue tracker and community support repository for **Git
 
 > **Note:** The core source code of Git Loupe is maintained in a private repository. This public repository is dedicated exclusively to tracking bugs, feature requests, and providing user support.
 
-
-[![Visual Studio Marketplace](https://img.shields.io/badge/Available%20on-VS%20Code%20Marketplace-blue.svg)](https://marketplace.visualstudio.com/items?itemName=gitloupe.git-loupe) 
 
 ---
 

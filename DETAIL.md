@@ -1,3 +1,18 @@
+<div align="center">
+  <img src="images/logo.png"  />
+</div>
+<br>
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=gitloupe.git-loupe">
+    <img src="https://img.shields.io/badge/Available%20on-VS%20Code%20Marketplace-blue.svg" alt="Visual Studio Marketplace" />
+  </a>
+  &nbsp;
+  <a href="https://open-vsx.org/extension/gitloupe/git-loupe">
+    <img src="https://img.shields.io/badge/Available%20on-Open%20VSX-blue.svg" alt="Open VSX" />
+  </a>
+</p>
+
+
 # Git Loupe 🔍
 
 Instantly discover who, when, and why a line of code was changed. **Git Loupe** is a lightweight, high-performance VS Code extension that provides unobtrusive inline Git blame annotations and a powerful hover card featuring smart contextual diff snippets.
