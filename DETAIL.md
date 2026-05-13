@@ -24,7 +24,7 @@ No bloated menus, no heavy background processes. Just the exact Git information 
 
 * **Git** must be installed on your system and accessible from the command line/system path.
 
-* Visual Studio Code `1.107.0` or higher.
+* Visual Studio Code `1.93.1` or higher.
 
 ## 📦 Extension Settings
 
@@ -46,6 +46,10 @@ This extension contributes the following settings:
 * Implemented smart `histogram` diff extraction for contextual code changes.
 * Added support for real-time uncommitted changes diff viewing.
 * Added customizable setting `gitloupe.maxDiffLines` to adjust hover diff length.
+
+### 1.0.3
+
+* Compatible with lower versions of VSCode `1.93.1`.
 
 ---
 
