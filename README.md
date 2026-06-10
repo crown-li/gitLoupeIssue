@@ -1,49 +1,71 @@
 <div align="center">
-  <img src="images/logo.png"  />
+  <img src="images/logo.png" />
 </div>
 <br>
-<p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=gitloupe.git-loupe">
-    <img src="https://img.shields.io/badge/Available%20on-VS%20Code%20Marketplace-blue.svg" alt="Visual Studio Marketplace" />
-  </a>
-  &nbsp;
-  <a href="https://open-vsx.org/extension/gitloupe/git-loupe">
-    <img src="https://img.shields.io/badge/Available%20on-Open%20VSX-blue.svg" alt="Open VSX" />
-  </a>
+<p align="center" dir="auto">
+  <a href="https://marketplace.visualstudio.com/items?itemName=gitloupe.git-loupe"><img src="https://img.shields.io/badge/Available%20on-VS%20Code%20Marketplace-blue.svg" alt="Visual Studio Marketplace" /></a>
+  <a href="https://open-vsx.org/extension/gitloupe/git-loupe"><img src="https://img.shields.io/badge/Available%20on-Open%20VSX-blue.svg" alt="Open VSX" /></a>
 </p>
 
 
-# Git Loupe - Official Issue Tracker 🔍
 
-Welcome to the official issue tracker and community support repository for **Git Loupe**, a lightweight and high-performance Git blame extension for Visual Studio Code.
+# Git Loupe 🔍
 
-> **Note:** The core source code of Git Loupe is maintained in a private repository. This public repository is dedicated exclusively to tracking bugs, feature requests, and providing user support.
+Instantly discover who, when, and why a line of code was changed. **Git Loupe** is a lightweight, high-performance VS Code extension that provides unobtrusive inline Git blame annotations and a powerful hover card featuring smart contextual diff snippets.
 
+No bloated menus, no heavy background processes. Just the exact Git information you need, exactly when you need it.
+
+## ✨ Features
+
+* **Inline Blame Annotations:** Displays a subtle, dim annotation at the end of the current active line showing the author, relative time, and commit message.
+
+* **Rich Hover Details:** Hover over the active line to reveal an elegantly formatted card with full commit details, precise timestamps, and the author's email.
+
+* **Smart Contextual Diff (Killer Feature):** Unlike other extensions that struggle with diff alignment, Git Loupe extracts the precise red/green diff snippet for the specific change. Powered by Git's advanced `histogram` algorithm, it displays context around the specific change making it incredibly easy to understand *what* exactly changed.
+
+* **Uncommitted Changes Support:** Instantly view the diff for your current, uncommitted workspace changes against the `HEAD` right in the hover card.
+
+* **Highly Optimized:** Completely event-driven to ensure zero impact on your editor's performance.
+
+## 🚀 See it in Action
+
+![Git Loupe in Action](images/gif.gif)
+
+## ⚙️ Requirements
+
+* **Git** must be installed on your system and accessible from the command line/system path.
+
+* Visual Studio Code `1.93.1` or higher.
+
+## 📦 Extension Settings
+
+This extension contributes the following settings:
+
+* `gitloupe.maxDiffLines`: Controls the maximum number of lines to display in the hover diff snippet context. **(Default: 1)**. Increase this number if you prefer to see more surrounding code context within the red/green diff view.
+
+## 🐛 Known Issues
+
+* None currently reported. If you find any issues or have feature requests, please open an **[Issue](https://github.com/crown-li/gitLoupeIssue/issues)** on the GitHub repository.
+
+## 📝 Release Notes
+
+### 1.0.2
+
+* Initial release of Git Loupe! 🎉
+* Added inline line blame annotations.
+* Added rich hover card with author details and commit hash.
+* Implemented smart `histogram` diff extraction for contextual code changes.
+* Added support for real-time uncommitted changes diff viewing.
+* Added customizable setting `gitloupe.maxDiffLines` to adjust hover diff length.
+
+### 1.0.3
+
+* Compatible with lower versions of VSCode `1.93.1`.
+
+### 1.0.4
+
+* Fix some issues.
 
 ---
 
-## 🐛 How to Report a Bug
-
-If you encounter an issue while using Git Loupe, we want to fix it! Before opening a new issue, please quickly check the existing issues to see if it has already been reported.
-
-To help us resolve the bug as quickly as possible, please click the **[Issues](https://github.com/crown-li/gitLoupeIssue/issues)** tab and provide the following information when creating a new bug report:
-
-**Bug Report Template:**
-```text
-**Describe the bug:**
-A clear and concise description of what the bug is.
-
-**Steps to Reproduce:**
-1. Open file '...'
-2. Change configuration 'gitloupe.maxDiffLines' to '...'
-3. Hover over line '...'
-4. See error
-
-**Expected behavior:**
-A clear and concise description of what you expected to happen.
-
-**Environment details:**
-- OS: [e.g. Windows 11, macOS 14]
-- VS Code Version: [e.g. 1.85.0]
-- Git Loupe Version: [e.g. 1.0.0]
-- Git Version: [e.g. git version 2.43.0]
+**Enjoy exploring your code history with Git Loupe!**
