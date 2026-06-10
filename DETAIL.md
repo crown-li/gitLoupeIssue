@@ -1,16 +1,12 @@
 <div align="center">
-  <img src="images/logo.png"  />
+  <img src="images/logo.png" />
 </div>
 <br>
-<p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=gitloupe.git-loupe">
-    <img src="https://img.shields.io/badge/Available%20on-VS%20Code%20Marketplace-blue.svg" alt="Visual Studio Marketplace" />
-  </a>
-  &nbsp;
-  <a href="https://open-vsx.org/extension/gitloupe/git-loupe">
-    <img src="https://img.shields.io/badge/Available%20on-Open%20VSX-blue.svg" alt="Open VSX" />
-  </a>
+<p align="center" dir="auto">
+  <a href="https://marketplace.visualstudio.com/items?itemName=gitloupe.git-loupe"><img src="https://img.shields.io/badge/Available%20on-VS%20Code%20Marketplace-blue.svg" alt="Visual Studio Marketplace" /></a>
+  <a href="https://open-vsx.org/extension/gitloupe/git-loupe"><img src="https://img.shields.io/badge/Available%20on-Open%20VSX-blue.svg" alt="Open VSX" /></a>
 </p>
+
 
 
 # Git Loupe 🔍
@@ -65,6 +61,10 @@ This extension contributes the following settings:
 ### 1.0.3
 
 * Compatible with lower versions of VSCode `1.93.1`.
+
+### 1.0.4
+
+* Fixed known issues.
 
 ---
 
