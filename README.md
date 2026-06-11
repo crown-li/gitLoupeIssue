@@ -10,7 +10,7 @@
 
 # Git Loupe - Official Issue Tracker 🔍
 
-Welcome to the official issue tracker and community support repository for **Git Loupe**, a lightweight and high-performance Git blame extension for Visual Studio Code.
+Welcome to the official issue tracker and community support repository for **[Git Loupe](https://github.com/crown-li/gitLoupeIssue/blob/main/DETAIL.md)**, a lightweight and high-performance Git blame extension for Visual Studio Code.
 
 > **Note:** The core source code of Git Loupe is maintained in a private repository. This public repository is dedicated exclusively to tracking bugs, feature requests, and providing user support.
 
