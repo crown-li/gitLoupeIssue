@@ -66,6 +66,11 @@ This extension contributes the following settings:
 
 * Fixed known issues.
 
+### 1.0.5
+
+* Resolve some security issues.
+* Optimize code to improve performance.
+
 ---
 
 **Enjoy exploring your code history with Git Loupe!**
