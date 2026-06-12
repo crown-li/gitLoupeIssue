@@ -27,4 +27,10 @@ All notable changes to the "gitloupe" extension will be documented in this file.
 - Resolve some security issues.
 - Optimize code to improve performance.
 
+## [1.0.6] - 2026-06-12
+
+### Changed
+- Modify project description.
+- Improve version records.
+
 
