@@ -47,30 +47,6 @@ This extension contributes the following settings:
 
 * None currently reported. If you find any issues or have feature requests, please open an **[Issue](https://github.com/crown-li/gitLoupeIssue/issues)** on the GitHub repository.
 
-## 📝 Release Notes
-
-### 1.0.2
-
-* Initial release of Git Loupe! 🎉
-* Added inline line blame annotations.
-* Added rich hover card with author details and commit hash.
-* Implemented smart `histogram` diff extraction for contextual code changes.
-* Added support for real-time uncommitted changes diff viewing.
-* Added customizable setting `gitloupe.maxDiffLines` to adjust hover diff length.
-
-### 1.0.3
-
-* Compatible with lower versions of VSCode `1.93.1`.
-
-### 1.0.4
-
-* Fixed known issues.
-
-### 1.0.5
-
-* Resolve some security issues.
-* Optimize code to improve performance.
-
 ---
 
 **Enjoy exploring your code history with Git Loupe!**
