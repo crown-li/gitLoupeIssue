@@ -33,4 +33,11 @@ All notable changes to the "gitloupe" extension will be documented in this file.
 - Modify project description.
 - Improve version records.
 
+## [1.0.7] - 2026-06-15
+
+### Added
+- Added clickable commit hash in hover card.
+- Implemented **Diff Editor** view when clicking commit hash, showing before/after changes.
+
+
 
