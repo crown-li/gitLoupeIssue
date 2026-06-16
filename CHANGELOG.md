@@ -39,5 +39,20 @@ All notable changes to the "gitloupe" extension will be documented in this file.
 - Added clickable commit hash in hover card.
 - Implemented **Diff Editor** view when clicking commit hash, showing before/after changes.
 
+## [1.1.0] - 2026-06-16
+
+### Added
+- Newly added version navigation
+- Support for comparing workspace content with latest commit.
+- Navigation buttons now always visible in editor title bar.
+
+### Changed
+- Updated Diff Editor title format to clearly show version comparison.
+
+### Fixed
+- Fixed click event not working on commit hash link.
+- Fixed module resolution errors in diff view.
+
+
 
 
