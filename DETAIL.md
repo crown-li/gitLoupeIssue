@@ -23,13 +23,19 @@ No bloated menus, no heavy background processes. Just the exact Git information 
 
 * **Smart Contextual Diff (Killer Feature):** Unlike other extensions that struggle with diff alignment, Git Loupe extracts the precise red/green diff snippet for the specific change. Powered by Git's advanced `histogram` algorithm, it displays context around the specific change making it incredibly easy to understand *what* exactly changed.
 
-* **Uncommitted Changes Support:** Instantly view the diff for your current, uncommitted workspace changes against the `HEAD` right in the hover card.
+* **Uncommitted Changes Support:** Instantly view the diff for your current, uncommitted workspace changes against the `HEAD` right in the hover card; Click on hash to view `diff view`.
+
+* **Diff View:** Click on the navigation in the upper right corner of the page to switch between Previous Version and Next Version, and compare the differences.
 
 * **Highly Optimized:** Completely event-driven to ensure zero impact on your editor's performance.
 
 ## 🚀 See it in Action
 
-![Git Loupe in Action](images/gif.gif)
+### Hover Card
+![Git Loupe in Action](images/2026061601.gif)
+
+### Diff View
+![Git Loupe in Action](images/2026061602.gif)
 
 ## ⚙️ Requirements
 
