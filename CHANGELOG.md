@@ -1,6 +1,9 @@
 # Change Log
 
-All notable changes to the "gitloupe" extension will be documented in this file.
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/2.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [1.0.2] - 2026-05-11
 
@@ -36,13 +39,13 @@ All notable changes to the "gitloupe" extension will be documented in this file.
 ## [1.0.7] - 2026-06-15
 
 ### Added
-- Added clickable commit hash in hover card.
+- Adds clickable commit hash in hover card.
 - Implemented **Diff Editor** view when clicking commit hash, showing before/after changes.
 
 ## [1.1.0] - 2026-06-16
 
 ### Added
-- Newly added version navigation
+- Newly adds version navigation
 - Support for comparing workspace content with latest commit.
 - Navigation buttons now always visible in editor title bar.
 
@@ -56,8 +59,8 @@ All notable changes to the "gitloupe" extension will be documented in this file.
 ## [1.1.1] - 2026-06-16
 
 ### Added
-- Added status bar tooltip for better user guidance.
-- Added copying hash value to clipboard.
+- Adds status bar tooltip for better user guidance.
+- Adds copying hash value to clipboard.
 
 ### Changed
 - Refactored codebase for improved maintainability and performance.
