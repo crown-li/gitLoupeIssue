@@ -64,6 +64,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - Refactored codebase for improved maintainability and performance.
+- Optimize the display effect before submission.
 
 
 
