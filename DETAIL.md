@@ -27,6 +27,8 @@ No bloated menus, no heavy background processes. Just the exact Git information 
 
 * **Diff View:** Click on the navigation in the upper right corner of the page to switch between Previous Version and Next Version, and compare the differences.
 
+* **Status Bar** Status bar tooltip showing commits count, contributors list, and last modified time.
+
 * **Highly Optimized:** Completely event-driven to ensure zero impact on your editor's performance.
 
 ## 🚀 See it in Action
@@ -36,6 +38,10 @@ No bloated menus, no heavy background processes. Just the exact Git information 
 
 ### Diff View
 ![Git Loupe in Action](images/2026061602.gif)
+
+### Status Bar
+![Git Loupe in Action](images/2026061701.gif)
+
 
 ## ⚙️ Requirements
 
