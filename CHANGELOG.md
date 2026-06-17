@@ -53,6 +53,12 @@ All notable changes to the "gitloupe" extension will be documented in this file.
 - Fixed click event not working on commit hash link.
 - Fixed module resolution errors in diff view.
 
+## [1.1.1] - 2026-06-16
+
+### Added
+- Added status bar tooltip showing commits count, contributors list, and last modified time.
+
+
 
 
 
