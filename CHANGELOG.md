@@ -56,9 +56,11 @@ All notable changes to the "gitloupe" extension will be documented in this file.
 ## [1.1.1] - 2026-06-16
 
 ### Added
-- Added status bar tooltip showing commits count, contributors list, and last modified time.
+- Added status bar tooltip for better user guidance.
+- Added copying hash value to clipboard.
 
-
+### Changed
+- Refactored codebase for improved maintainability and performance.
 
 
 
