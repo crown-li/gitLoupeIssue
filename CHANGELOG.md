@@ -56,7 +56,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fixes click event not working on commit hash link.
 - Fixes module resolution errors in diff view.
 
-## [1.1.1] - 2026-06-16
+## [1.1.1] - 2026-06-17
 
 ### Added
 - Adds status bar tooltip for better user guidance.
@@ -66,5 +66,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Refactored codebase for improved maintainability and performance.
 - Optimize the display effect before submission.
 
+## [1.1.2] - 2026-06-18
+
+### Fixed
+- Fix some issues with DIff View attempting to switch.
 
 
