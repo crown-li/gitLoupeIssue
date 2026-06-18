@@ -55,6 +55,12 @@ This extension contributes the following settings:
 
 * `gitloupe.maxDiffLines`: Controls the maximum number of lines to display in the hover diff snippet context. **(Default: 1)**. Increase this number if you prefer to see more surrounding code context within the red/green diff view.
 
+```json
+{
+  "gitloupe.maxDiffLines": 1
+}
+```
+
 ## 🐛 Known Issues
 
 * None currently reported. If you find any issues or have feature requests, please open an **[Issue](https://github.com/crown-li/gitLoupeIssue/issues)** on the GitHub repository.
