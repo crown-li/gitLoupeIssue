@@ -71,4 +71,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - Fix some issues with DIff View attempting to switch.
 
+## [1.1.3] - 2026-06-22
 
+### Fixed
+
+- Fixes known issues.
