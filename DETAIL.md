@@ -31,6 +31,8 @@ No bloated menus, no heavy background processes. Just the exact Git information 
 
 * **Highly Optimized:** Completely event-driven to ensure zero impact on your editor's performance.
 
+* **Emoji Support:** Expanded built-in emoji library fully aligned with the open-source standards of Gitmoji and Conventional Commits, adding over 30 common scenarios including hot updates, Docker operations, dependency upgrades, WIP and more.
+
 ## 🚀 See it in Action
 
 ### Hover Card
@@ -41,6 +43,9 @@ No bloated menus, no heavy background processes. Just the exact Git information 
 
 ### Status Bar
 ![Git Loupe in Action](images/2026061701.gif)
+
+### Emoji Support
+![Git Loupe in Action](images/2026073101.gif)
 
 
 ## ⚙️ Requirements
