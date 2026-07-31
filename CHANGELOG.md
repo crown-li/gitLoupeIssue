@@ -74,5 +74,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.1.3] - 2026-06-22
 
 ### Fixed
-
 - Fixes known issues.
+
+## [1.1.4] - 2026-07-31
+
+### Added
+- Full Emoji Support: Expanded built-in emoji library fully aligned with the open-source standards of Gitmoji and Conventional Commits, adding over 30 common scenarios including hot updates, Docker operations, dependency upgrades, WIP and more.
+- Commit Spec & English Hints: Added English descriptions and commit specification suffixes (e.g. feat, fix, chore) in the emoji picker for a more professional UI and clearer semantics.
+- Quick Pinyin & English Search: Enabled matchOnDetail matching. You can now directly type English abbreviations in the search box (e.g. enter hotfix to quickly locate 🚑, perf to find ⚡), greatly boosting input efficiency.
+- Multi-root Workspace Smart Support: When multiple Git subprojects exist in the workspace, triggering via the command palette will automatically pop up a repository selector for you to specify the target for insertion.
