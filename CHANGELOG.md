@@ -83,3 +83,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Commit Spec & English Hints: Added English descriptions and commit specification suffixes (e.g. feat, fix, chore) in the emoji picker for a more professional UI and clearer semantics.
 - Quick Pinyin & English Search: Enabled matchOnDetail matching. You can now directly type English abbreviations in the search box (e.g. enter hotfix to quickly locate 🚑, perf to find ⚡), greatly boosting input efficiency.
 - Multi-root Workspace Smart Support: When multiple Git subprojects exist in the workspace, triggering via the command palette will automatically pop up a repository selector for you to specify the target for insertion.
+
+## [1.1.5] - 2026-08-07
+
+### Added
+- **Visual Emoji Picker**: A new grid-based webview panel to visually browse, preview, and insert emojis directly into the SCM commit box.
+- **Expanded Library & Smart Search**: Added over 200 curated emojis aligned with Gitmoji. Features bilingual descriptions (English/zh-CN) and supports keyword searching (e.g., typing "feat", "fix", or "hotfix" instantly finds the right emoji).
+- **Multi-Repo Support**: When working in multi-root workspaces, you can now select the target repository before inserting an emoji.
+
+### Changed
+- **Improved Insertion Flow**: Emojis are now automatically prepended to your existing commit message, and the input box auto-focuses for a smoother typing experience.
+- Refactored the underlying emoji data structure for better localization (i18n) and maintainability.
+
+### Fixed
+- Resolved an issue where emoji insertion failed in multi-repository workspaces.
+- Fixed UI styling inconsistencies between the QuickPick and Webview panels.
