@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <kbd>&nbsp; 🇺🇸 <a href="https://github.com/crown-li/gitLoupe/blob/main/README.md">English</a> &nbsp;</kbd>
+  <kbd>&nbsp; 🇺🇸 <a href="https://github.com/crown-li/gitLoupeIssue/blob/main/README.md">English</a> &nbsp;</kbd>
   &nbsp;&nbsp; | &nbsp;&nbsp;
-  <kbd>&nbsp; 🇨🇳 <a href="https://github.com/crown-li/gitLoupe/blob/main/README.zh-CN.md">简体中文</a> &nbsp;</kbd>
+  <kbd>&nbsp; 🇨🇳 <a href="https://github.com/crown-li/gitLoupeIssue/blob/main/README.zh-CN.md">简体中文</a> &nbsp;</kbd>
 </p>
 
 # Git Loupe 🔍
@@ -49,7 +49,7 @@ No bloated menus, no heavy background processes. Just the exact Git information 
 ![Git Loupe in Action](images/2026061701.gif)
 
 ### Emoji Support
-![Git Loupe in Action](images/2026073101.gif)
+![Git Loupe in Action](images/202608071.gif)
 
 
 ## ⚙️ Requirements
