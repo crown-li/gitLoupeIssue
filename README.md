@@ -7,10 +7,16 @@
   <a href="https://open-vsx.org/extension/gitloupe/git-loupe"><img src="https://img.shields.io/badge/Available%20on-Open%20VSX-blue.svg" alt="Open VSX" /></a>
 </p>
 
+<p align="center">
+  <kbd>&nbsp; 🇺🇸 <a href="https://github.com/crown-li/gitLoupeIssue/blob/main/DETAIL.md">English</a> &nbsp;</kbd>
+  &nbsp;&nbsp; | &nbsp;&nbsp;
+  <kbd>&nbsp; 🇨🇳 <a href="https://github.com/crown-li/gitLoupeIssue/blob/main/DETAIL.zh-CN.md">简体中文</a> &nbsp;</kbd>
+</p>
+
 
 # Git Loupe - Official Issue Tracker 🔍
 
-Welcome to the official issue tracker and community support repository for **[Git Loupe](https://github.com/crown-li/gitLoupeIssue/blob/main/DETAIL.md)**, a lightweight and high-performance Git blame extension for Visual Studio Code.
+Welcome to the official issue tracker and community support repository for **[Git Loupe](https://github.com/crown-li/gitLoupeIssue/blob/main/DETAIL.md)** | **[Git Loupe 中文](https://github.com/crown-li/gitLoupeIssue/blob/main/DETAIL.zh-CN.md)**, a lightweight and high-performance Git blame extension for Visual Studio Code.
 
 > **Note:** The core source code of Git Loupe is maintained in a private repository. This public repository is dedicated exclusively to tracking bugs, feature requests, and providing user support.
 
