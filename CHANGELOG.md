@@ -90,6 +90,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Visual Emoji Picker**: A new grid-based webview panel to visually browse, preview, and insert emojis directly into the SCM commit box.
 - **Expanded Library & Smart Search**: Added over 200 curated emojis aligned with Gitmoji. Features bilingual descriptions (English/zh-CN) and supports keyword searching (e.g., typing "feat", "fix", or "hotfix" instantly finds the right emoji).
 - **Multi-Repo Support**: When working in multi-root workspaces, you can now select the target repository before inserting an emoji.
+- **Internationalization**: Added support for multiple languages, including English and Chinese.
 
 ### Changed
 - **Improved Insertion Flow**: Emojis are now automatically prepended to your existing commit message, and the input box auto-focuses for a smoother typing experience.
