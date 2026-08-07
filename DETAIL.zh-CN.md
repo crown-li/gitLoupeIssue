@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <kbd>&nbsp; 🇺🇸 <a href="./README.md">English</a> &nbsp;</kbd>
+  <kbd>&nbsp; 🇺🇸 <a href="https://github.com/crown-li/gitLoupeIssue/blob/main/DETAIL.md">English</a> &nbsp;</kbd>
   &nbsp;&nbsp; | &nbsp;&nbsp;
-  <kbd>&nbsp; 🇨🇳 <a href="./README.zh-CN.md">简体中文</a> &nbsp;</kbd>
+  <kbd>&nbsp; 🇨🇳 <a href="https://github.com/crown-li/gitLoupeIssue/blob/main/DETAIL.zh-CN.md">简体中文</a> &nbsp;</kbd>
 </p>
 
 # Git Loupe 🔍
