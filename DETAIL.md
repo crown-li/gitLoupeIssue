@@ -7,7 +7,11 @@
   <a href="https://open-vsx.org/extension/gitloupe/git-loupe"><img src="https://img.shields.io/badge/Available%20on-Open%20VSX-blue.svg" alt="Open VSX" /></a>
 </p>
 
-
+<p align="center">
+  <kbd>&nbsp; 🇺🇸 <a href="https://github.com/crown-li/gitLoupeIssue/blob/main/DETAIL.md">English</a> &nbsp;</kbd>
+  &nbsp;&nbsp; | &nbsp;&nbsp;
+  <kbd>&nbsp; 🇨🇳 <a href="https://github.com/crown-li/gitLoupeIssue/blob/main/DETAIL.zh-CN.md">简体中文</a> &nbsp;</kbd>
+</p>
 
 # Git Loupe 🔍
 
@@ -31,6 +35,8 @@ No bloated menus, no heavy background processes. Just the exact Git information 
 
 * **Highly Optimized:** Completely event-driven to ensure zero impact on your editor's performance.
 
+* **Emoji Support:** Expanded the built-in emoji library, allowing for the use of emoji expressions to describe submission types when submitting code.
+
 ## 🚀 See it in Action
 
 ### Hover Card
@@ -41,6 +47,9 @@ No bloated menus, no heavy background processes. Just the exact Git information 
 
 ### Status Bar
 ![Git Loupe in Action](images/2026061701.gif)
+
+### Emoji Support
+![Git Loupe in Action](images/202608071.gif)
 
 
 ## ⚙️ Requirements
