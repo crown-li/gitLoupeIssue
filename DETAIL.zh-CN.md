@@ -49,7 +49,7 @@
 ![Git Loupe in Action](images/2026061701.gif)
 
 ### Emoji 支持
-![Git Loupe in Action](images/202608071.gif)
+![Git Loupe in Action](images/2026080101.gif)
 
 
 ## ⚙️ 运行要求
