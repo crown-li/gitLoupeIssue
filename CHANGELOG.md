@@ -99,3 +99,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - Resolved an issue where emoji insertion failed in multi-repository workspaces.
 - Fixed UI styling inconsistencies between the QuickPick and Webview panels.
+
+## [2.0.0] - 2026-08-10
+
+### Fixed
+- Fix the multilingual issue.
