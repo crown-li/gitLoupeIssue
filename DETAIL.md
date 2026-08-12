@@ -49,7 +49,7 @@ No bloated menus, no heavy background processes. Just the exact Git information 
 ![Git Loupe in Action](images/2026061701.gif)
 
 ### Emoji Support
-![Git Loupe in Action](images/2026080101.gif)
+![Git Loupe in Action](images/2026080121.gif)
 
 
 ## ⚙️ Requirements
