@@ -43,7 +43,7 @@ No bloated menus, no heavy background processes. Just the exact Git information 
 ![Git Loupe in Action](images/2026061601.gif)
 
 ### Diff View
-![Git Loupe in Action](images/2026061602.gif)
+![Git Loupe in Action](images/2026080131.gif)
 
 ### Status Bar
 ![Git Loupe in Action](images/2026061701.gif)
