@@ -43,7 +43,7 @@
 ![Git Loupe in Action](images/2026061601.gif)
 
 ### 差异视图
-![Git Loupe in Action](images/2026061602.gif)
+![Git Loupe in Action](images/2026080131.gif)
 
 ### 状态栏
 ![Git Loupe in Action](images/2026061701.gif)
